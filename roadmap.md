@@ -11,3 +11,4 @@
 - [ ] Secret admin access: ?admin=true, triple-tap, long-press logo
 - [ ] Tools: SubTrack (₦5,000), JobFlow, PayChaser, ReportSnap, ClaimDesk (₦10,000 each)
 - [ ] Head metadata per route
+- [ ] Use uploaded Eminent Clicks logo in header + favicon
